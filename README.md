@@ -54,7 +54,7 @@ To run the script, follow these steps:
 2. Navigate to the directory containing the script and the `Users.csv` file.
 3. Execute the script by running:
    ```powershell
-   .\YourScriptName.ps1
+   .\CMS_Teams_Inventory.ps1
    ```
 
 ## Error Handling
