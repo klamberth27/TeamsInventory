@@ -83,7 +83,6 @@ This file will be located in the same directory as the script.
 
 - Ensure the `Users.csv` file is in the correct format and located in the same directory as the script.
 - Ensure you have the necessary permissions to install modules and connect to Microsoft Teams.
-- Check for any typos or syntax errors in the script if you encounter issues.
 
 ## Additional Notes
 
