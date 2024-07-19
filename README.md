@@ -4,7 +4,7 @@
 
 ## Script Overview
 
-This PowerShell script pulls inventory data for a given list of users from a CSV file, processes Microsoft Teams data for each user, and exports the results to a new CSV file. The script ensures that the necessary module (`MicrosoftTeams`) is installed and imported before proceeding.
+This PowerShell script pulls Microsoft Teams inventory data for a given list of users from a CSV file, processes Microsoft Teams data for each user, and exports the results to a new CSV file. The script ensures that the necessary module (`MicrosoftTeams`) is installed and imported before proceeding.
 
 ## Prerequisites
 
