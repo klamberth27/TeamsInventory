@@ -14,10 +14,6 @@ SubjectData
 .EXAMPLE
 .\CMS_SharePoint_Inventory.ps1
 This will run the script in the current directory, processing the 'Users.csv' file and generating 'CMSTeamswithMembers.csv' with the team details for each user in the list.
-
-.EXAMPLE
-powershell.exe -File .\CMS_SharePoint_Inventory.ps1
-This command runs the script using the PowerShell executable, useful for scheduling the script in task scheduler or other automation tools.
 #>
 
 
